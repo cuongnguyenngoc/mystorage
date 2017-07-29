@@ -13,4 +13,5 @@ This is a distributed application named GuyDrive. This app is like Google drive,
   - Run separately server and client orderly using Netbeans or any IDE you like.
 - Results:
   - Server
+  ![server](pictures/server.png)
   - Client
